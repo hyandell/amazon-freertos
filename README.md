@@ -1,5 +1,7 @@
 ## Getting Started
 
+TEST CHANGE
+
 For more information on Amazon FreeRTOS, refer to the [Getting Started section of Amazon FreeRTOS webpage](https://aws.amazon.com/freertos).
 
 To directly access the **Getting Started Guide** for supported hardware platforms, click the corresponding link in the Supported Hardware section below.
